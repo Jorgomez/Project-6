@@ -49,11 +49,17 @@ userRoutes.delete('/:id', deleteUser) delete a user
 #### BOOKS
 
 get('/:id', getBookById) get a book by ID
+
 get('/getByGenre/:genre', getBookByGenre) get the books by a genre
+
 get('/getByPages/:pages', getBookByPages)get the books by pages
+
 get('/', getAllBooks) get all the books
+
 post('/', postBook) create a new user
+
 put('/:id', updateBook) update a user
+
 delete('/:id', deleteBook) delete a user
 
 ##### important
