@@ -4,17 +4,17 @@ This project is a basic API REST. The database was created whit Mongo Atlas and 
 
 ## Technologies
 
-Node.js
-javaScript
-mongoDB
-Insomnia
+* Node.js
+* javaScript
+* mongoDB
+* Insomnia
 
 ## Dependencies
 
-Nodemon
-express
-dotenv
-mongoose
+* Nodemon
+* express
+* dotenv
+* mongoose
 
 ## API URL
 
